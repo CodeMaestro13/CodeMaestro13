@@ -1,6 +1,16 @@
-- 👋 Hi, I’m @CodeMaestro13 AKA  Krishna Narde
-- Welcome to my GitHub! I'm passionate about coding, learning, and building awesome projects.
-  
+###
+
+<h1 align="left">👋Hi, I’m @CodeMaestro13 AKA Krishna Narde</h1>
+
+###
+
+<h3 align="center">Welcome to my GitHub!</h3>
+
+###
+
+<p align="center">I'm passionate about coding, learning, and building awesome projects.</p>
+
+###
 - 👀 I’m interested in ...
   
       - Full-Stack Development  
@@ -15,18 +25,11 @@
       - AI & Machine Learning
   
 - 💞️ I’m looking to collaborate on ...
-
   
      - Open Source Projects  
      - Web & Web-App Development  
      - Innovative Software Solutions
        
-- 📫 How to reach me ...
-  
-      - Email: **krishnanarde2001@gmail.com**  
-      - LinkedIn: [linkedin.com/in/krishna-narde](https://www.linkedin.com/in/krishna-narde/) 
-      - TUF+ :[@CodeMaestro](https://takeuforward.org/plus/progress) 
-     
 - 😄 Pronouns: ...
   
     He/Him
@@ -44,18 +47,6 @@ You can click the Preview link to take a look at your changes.
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=CodeMaestro13.CodeMaestro13&"  />
 </div>
-
-###
-
-<h1 align="left">👋Hi, I’m @CodeMaestro13 AKA Krishna Narde</h1>
-
-###
-
-<h3 align="center">Welcome to my GitHub!</h3>
-
-###
-
-<p align="center">I'm passionate about coding, learning, and building awesome projects.</p>
 
 ###
 
