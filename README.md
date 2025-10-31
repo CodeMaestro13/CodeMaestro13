@@ -139,8 +139,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMaestro13&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" height="165"/>
 </div>
 
-<div align="center">
+<!--<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeMaestro13&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div> --> 
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=CodeMaestro13&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
