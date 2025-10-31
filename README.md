@@ -91,8 +91,8 @@
 
 ## 💼 Professional Experience
 
-### 🏢 Software Developer Intern | Hexadecimal Software Pvt. Ltd.
-**📅 Sep 2024 – Apr 2025**
+### 🏢 Full Stack Developer | Digitized Brand Hub Pvt. Ltd.
+**📅 July 2024 – Present**
 
 - 🚀 Built dynamic web pages and features using **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**
 - 🔗 Integrated **Node.js** and **Firebase** REST APIs in Agile development sprints
@@ -100,10 +100,9 @@
 - 👥 Collaborated with cross-functional teams to meet project deadlines and requirements
 
 ---
-
 ## 🛠️ Featured Project
 
-### 🌟 Decentralized Crowdfunding Platform
+<!--### 🌟 Decentralized Crowdfunding Platform
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/sdhage1502/](https://github.com/sdhage1502/decentralized-crowdfunding))
 [![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=vercel&logoColor=white)]([https://your-demo-link.com](https://decentralized-crowdfunding-woad.vercel.app/))
 
@@ -118,7 +117,7 @@
 - 🛡️ **Security-first architecture** with input validation and error handling
 - 📊 **Dynamic dashboards** for campaign creators and backers with real-time updates
 
-**🚀 Impact:** This platform demonstrates the power of decentralized finance (DeFi) by removing intermediaries and ensuring transparent fund management through blockchain technology.
+**🚀 Impact:** This platform demonstrates the power of decentralized finance (DeFi) by removing intermediaries and ensuring transparent fund management through blockchain technology. --> 
 
 ---
 
@@ -126,7 +125,7 @@
   <h3>🔍 Explore More Projects</h3>
   <p>Discover my complete portfolio including <strong>Web3 DApps</strong>, <strong>Full-Stack Applications</strong>, <strong>Smart Weather Apps</strong>, <strong>Authentication Systems</strong>, and more!</p>
   
-  <a href="https://github.com/sdhage1502?tab=repositories" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/CodeMaestro13?tab=repositories" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🚀_View_All_Repositories-000000?style=for-the-badge&logo=github&logoColor=white" alt="All Repositories"/>
   </a>
 </div>
@@ -136,12 +135,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sdhage1502&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdhage1502&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeMaestro13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeMaestro13&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sdhage1502&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeMaestro13&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -162,7 +161,7 @@
   <p>💡 <strong>Always open to collaborating on exciting projects!</strong></p>
   <p>Whether it's web development, Web3 innovations, or solving real-world problems with code - let's build something amazing together!</p>
   
-  <a href="https://shreyash-portfoilo-website.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <a href="https://krishnanardeportfolio.netlify.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
@@ -170,8 +169,8 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sdhage1502&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/sdhage1502?style=for-the-badge&color=blue" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=CodeMaestro13&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/CodeMaestro13?style=for-the-badge&color=blue" alt="Followers"/>
 </div>
 
 <div align="center">
